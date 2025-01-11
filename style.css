@@ -55,3 +55,75 @@ background: rgb(198, 228, 214);
     height: 100%;
     margin-right: 20px;
 }
+.title{
+    padding-top: 50px;
+}
+.title .main-title h2{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -80px;
+}
+.sub-title p{
+    font-size: 30px;
+    opacity: 0.6;
+    padding-bottom: 32px; 
+    margin-left: -80px;   
+}
+.card{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.card-1 h2{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.card-1 p{
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.card-1{
+    padding-top: 50px;
+    text-align: left;
+    width: 650px;
+    height: 400px;
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgba(84, 144, 245, 0.2);
+}
+.card-2{
+    box-sizing: border-box;
+border-radius: 16px;
+background: rgb(198, 228, 214);
+}
+.card-3{
+    box-sizing: border-box;
+    border-radius: 16px;
+    background: rgb(247, 235, 207);
+}
+.card-1btn button{
+   padding: 15px 28px 15px 29px;
+   font-size: 20px;
+   margin-left: 30px;
+   border-radius: 8px;
+   background:rgb(84, 144, 245);
+   color: white;
+}
+.card-2 button{
+    padding: 15px 28px 15px 29px;
+   font-size: 20px;
+   margin-left: 30px;
+   border-radius: 8px;
+   background:rgb(9, 161, 92);
+   color: white;
+}
+.card-3 button{
+    padding: 15px 28px 15px 29px;
+   font-size: 20px;
+   margin-left: 30px;
+   border-radius: 8px;
+   background:rgb(255, 194, 57);
+   color: white;
+}
