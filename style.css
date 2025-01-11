@@ -127,3 +127,72 @@ background: rgb(198, 228, 214);
    background:rgb(255, 194, 57);
    color: white;
 }
+.recent-news{
+    margin-left: -20px;
+}
+.recent-news h2{
+    padding: 10px;
+    padding-top: 50px;
+    font-size: 50px;
+    font-weight: bold;
+}
+.recent-news p{
+    padding-top: 20px;
+    font-size: 30px;
+    opacity: 0.6;
+    padding-bottom: 30px;
+}
+.news-1{
+    background-color: rgb(245, 245, 245);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2500px;
+    height: 500px;
+}
+.img-container-1{
+    margin-left: 60px;
+    width: 508px;
+    height: 306px;
+    border-radius: 24px;
+background: url(assets/satelite.png);
+background-repeat: no-repeat;
+}
+.title-container h2{
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: -30px;
+}
+.title-container p{
+    font-size: 20px;
+    padding: 10px;
+    opacity: 0.6;
+}
+.title-container img{
+    margin-left: -30px;
+    margin-bottom: 5px;
+}
+.title-container{
+    margin-left: -80px;
+}
+.btn-2{
+    color: white;
+    font-weight: bold;
+    padding: 13px 26px 13px 26px;
+    border-radius: 8px;
+background: rgb(0, 106, 80);
+}
+.news-2{
+    display:flex;
+    justify-content: center;
+    background-color: rgb(245, 245, 245);
+    border-radius: 20px;
+    align-items: center;
+    width: 2500px;
+    height: 500px;
+    padding-top: 20px;
+}
+.news-2 .title-container{
+    margin-left: 60px;
+}
