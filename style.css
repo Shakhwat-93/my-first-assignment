@@ -196,3 +196,67 @@ background: rgb(0, 106, 80);
 .news-2 .title-container{
     margin-left: 60px;
 }
+.donate{
+    width: 2580px;
+height: 464px;
+}
+.donate-headline h2{
+    padding-top: 40px;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 20px;
+}
+.donate-headline p{
+    font-size: 25px;
+    text-align: center;
+    opacity: 0.6;
+    padding-bottom: 20px;
+}
+.taka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.one{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width: 300px;
+    height: 140px;
+    padding: 40px;
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+} 
+.two{
+    background-color: rgb(198, 228, 214);
+}
+.amount{
+    text-align: center;
+    padding: 30px;
+}
+.amount input{
+    font-size: 25px;
+    text-align: center;
+    width: 80%;
+    padding: 20px 40px 20px 40px;
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.15);
+    background: rgb(245, 245, 245); 
+}
+.done-btn{
+    text-align: center;
+}
+.done-btn button{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+    padding: 17px 34px 17px 34px;
+    background-color: rgb(0, 106, 80);
+}
